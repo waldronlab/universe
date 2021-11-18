@@ -1,0 +1,22 @@
+[
+  {
+    "package": "MultiAssayExperiment",
+    "url": "https://github.com/waldronlab/MultiAssayExperiment"
+  },
+  {
+    "package": "TCGAutils",
+    "url": "https://github.com/waldronlab/TCGAutils"
+  },
+  {
+    "package": "curatedTCGAData",
+    "url": "https://github.com/waldronlab/curatedTCGAData"
+  },
+  {
+    "package": "cBioPortalData",
+    "url": "https://github.com/waldronlab/cBioPortalData"
+  },
+  {
+    "package": "SingleCellMultiModal",
+    "url": "https://github.com/waldronlab/SingleCellMultiModal"
+  }
+]
