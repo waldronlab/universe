@@ -1,7 +1,8 @@
 [
   {
     "package": "MultiAssayExperiment",
-    "url": "https://github.com/waldronlab/MultiAssayExperiment"
+    "url": "https://github.com/waldronlab/MultiAssayExperiment",
+    "branch": [ "master", "RELEASE_3_14" ]
   },
   {
     "package": "TCGAutils",
