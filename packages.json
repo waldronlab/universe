@@ -18,5 +18,13 @@
   {
     "package": "SingleCellMultiModal",
     "url": "https://github.com/waldronlab/SingleCellMultiModal"
+  },
+  {
+    "package": "TENxIO",
+    "url": "https://github.com/waldronlab/TENxIO"
+  },
+  {
+    "package": "terraTCGAdata",
+    "url": "https://github.com/waldronlab/terraTCGAdata"
   }
 ]
