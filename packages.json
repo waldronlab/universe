@@ -26,5 +26,9 @@
   {
     "package": "terraTCGAdata",
     "url": "https://github.com/waldronlab/terraTCGAdata"
+  },
+    {
+    "package": "MicrobiomeBenchmarkData",
+    "url": "https://github.com/waldronlab/MicrobiomeBenchmarkData"
   }
 ]
